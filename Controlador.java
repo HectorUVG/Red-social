@@ -226,7 +226,8 @@ public class Controlador {
                                                                                 vis.pubPublicacion(tex.getPublicacion());
                                                                                 vis.pubHashtags(tex.getHashtags());
                                                                                 vis.pubLikes(tex.getLikes());
-                                                                                //sis.setTexto(tex); */    
+                                                                                //sis.setTexto(tex); */
+                                                                                //    
                                                                         }
                                                                 }
                                                                 break;
